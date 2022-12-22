@@ -1,4 +1,4 @@
-# Hermone
+# Takumotion
 
 ![Takumotion Logo](./assets/TM_Logo.png)
 
